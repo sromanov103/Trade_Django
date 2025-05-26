@@ -20,8 +20,8 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone https://github.com/sromanov103/Trade_Django.git
+cd Trade_Django
 ```
 
 2. Создайте и активируйте виртуальное окружение:
